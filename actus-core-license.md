@@ -111,15 +111,15 @@ THERE IS NO WARRANTY FOR THE SUBJECT MATTER LICENSED PURSUANT TO THIS AGREEMENT,
 
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ACTUS, OR ANY OTHER PARTY CLAIMING RIGHTS FROM ACTUS, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE [ACTUSFRF] CORE SOFTWARE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE [ACTUSFRF] CORE SOFTWARE TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-### 5.	Interpretation of Sections 3 and 4.
+### Section 5.	Interpretation of Sections 3 and 4.
 
 If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
 
-### 6.	Indemnity
+### Section 6.	Indemnity
 
 By using or distributing any [ACTUSfrf] Software, including without limitation, the [ACTUSfrf] Core Software, you agree to defend, indemnify and hold harmless, the Foundation, the Association, and any successors in interest thereto (collectively “Indemnified Parties”), from and against all claims, expenses, losses, liabilities, and causes of action alleged or asserted by third parties against the Indemnified Parties arising out of the modification, publication or distribution of any work including subject matter licensed under this Agreement, or out of services provided by Licensee using any such work or claiming to use such work. Any defense shall be by counsel selected by the Indemnified Party and such Indemnified Party shall have sole control of such defense or the settlement of any such claim.
 
-### 7.	Dispute Resolution
+### Section 7.	Dispute Resolution
 
 7.1 __Jurisdiction and Venue.__ Any dispute arising out of the interpretation, construction, and performance of this Agreement or out of the use, publication, modification, or other exploitation of the [ACTUSfrf] Core Software or the [ACTUSfrf] Standards shall be subject to the laws of the State of New York, without regard to its conflict of law rules, and subject to the exclusive jurisdiction of the state and federal courts sitting in the County of New York.
 
