@@ -1,4 +1,4 @@
-[![ProjectACTUS](https://github.com/projectactus/actus-resources/blob/master/logos/actus_logo.jpg "ACTUS Financial Research Foundation")](http://www.actusfrf.org)
+[![ProjectACTUS](https://github.com/actusfrf/actus-resources/blob/master/logos/actus_logo.jpg "ACTUS Financial Research Foundation")](https://www.actusfrf.org)
 
 ACTUS Core License
 =======
